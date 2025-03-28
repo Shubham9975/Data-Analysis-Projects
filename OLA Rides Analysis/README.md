@@ -139,4 +139,5 @@ The project includes dashboards for analyzing booking trends and insights:
    - A scatter plot comparing customer and driver ratings for completed rides.
 
 ---
+![Power BI Visualizations](https://github.com/Shubham9975/Data-Analysis-Projects/blob/main/OLA%20Rides%20Analysis/Vizualizations.gif?raw=true)
 
